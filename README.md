@@ -2,7 +2,7 @@
 
 1. Montar base de datos MySQL local en puerto 3306
 2. Descargar archivo pruebatec.sql incluido en este repositorio
-3. Crear base de datos pruebatec en panel de administracion de MySQL
+3. Crear base de datos ```pruebatec``` en panel de administracion de MySQL
 4. Importar archivo pruebatec.sql en la BDD pruebatec.
 
 ## Setup Backend
