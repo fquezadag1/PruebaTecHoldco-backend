@@ -82,7 +82,7 @@ AWS_USE_PATH_STYLE_ENDPOINT=false
 VITE_APP_NAME="${APP_NAME}"
 
 ```
-4. Abrir terminal en carpeta del proyecto para instalar composer 
+4. Abrir terminal en carpeta del proyecto para instalar dependencias 
 ```bash
 composer install
 ```
